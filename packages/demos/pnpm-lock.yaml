@@ -1,7 +1,9 @@
 lockfileVersion: 5.3
 
 specifiers:
-  '@yideng/core': ^1.0.0
+  '@yideng/core': ^1.0.1
+  laoyuan: workspace:npm:@yideng/core@^1.0.1
 
 dependencies:
   '@yideng/core': link:../core
+  laoyuan: link:../core
