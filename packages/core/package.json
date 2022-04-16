@@ -1,0 +1,22 @@
+{
+  "name": "@yideng/core",
+  "version": "1.0.0",
+  "description": "✈️我是core文件，负责全局配置",
+  "author": "name <1057674027@qq.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "src/index.ts",
+  "directories": {
+    "lib": "src",
+    "test": "test"
+  },
+  "files": [
+    "src"
+  ],
+  "publishConfig": {
+    "registry": "http://121.4.99.188:4873/"
+  },
+  "scripts": {
+    "dev": "microbundle"
+  }
+}
